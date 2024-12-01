@@ -19,5 +19,6 @@ pip install -r requirements.txt
 
 ## Run
 ```bash
+cd base
 flask --app run.py run
 ```
